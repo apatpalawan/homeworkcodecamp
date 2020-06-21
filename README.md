@@ -1,7 +1,7 @@
 # homeworkcodecamp 6
 apatpalawan@gmail.com
 
-แก้ไขชื่อ commit
+แก้ไขชื่อ commit ดังนี้................................
 pig	                 คือ ไฟล์รูปโปรไฟล์
 HTML Lab1 lab2.html  คือ	การบ้านจาก VDO
 Phonebook.html	      คือ หน้าเพจ สมุดโทรศัพท์
